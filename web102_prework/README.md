@@ -1,8 +1,7 @@
 # WEB102 Prework - 
 
 Submitted by: Subash Neupane
-
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+ Crowfunding website
 
 Time spent: 4 hours spent in total
 
@@ -28,12 +27,13 @@ Here's a walkthrough of implemented features:
 <img src='./assets/codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with licecap
 <!-- licecap -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I haven't encounter any challenge for this project. I have solved all the task easily as I am familiar to advanced javascript.
 
 ## License
 
